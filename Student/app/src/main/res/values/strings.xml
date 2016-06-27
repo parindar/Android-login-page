@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Student</string>
+
+    <string name="title_section1">Search </string>
+    <string name="title_section2">Add</string>
+    <string name="title_section3">Remove</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_example">toast</string>
+
+    <string name="action_settings">Settings</string>
+
+
+    <!--Error Messages-->
+    <string name="error_username_empty"> User name is required</string>
+    <string name="error_password_empty"> Password is required</string>
+
+    <!--Hint Messages-->
+    <string name="hint_username">"  Username"</string>
+    <string name="hint_password">" Password" </string>
+
+</resources>
